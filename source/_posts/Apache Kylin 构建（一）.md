@@ -3,7 +3,7 @@ layout: title
 title: Apache Kylin 构建（一）
 date: 2024-06-05 07:09:42
 tags: Kylin
-categories: [分布式系统, Olap]
+categories: [分布式系统, OLAP]
 ---
 
 # FYI

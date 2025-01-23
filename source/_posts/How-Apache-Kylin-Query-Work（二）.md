@@ -3,7 +3,7 @@ layout: title
 title: How Apache Kylin Query Work（二）
 date: 2024-08-19 16:00:22
 tags: Kylin
-categories: [分布式系统, Olap]
+categories: [分布式系统, OLAP]
 ---
 
 # FYI
